@@ -9,7 +9,7 @@ public class task_1409 {
         int garri = sc.nextInt();
         int lari = sc.nextInt();
 
-        int vsegoBank = garri + lari - 1; // -1 потому что одну банку оба попали
+        int vsegoBank = garri + lari - 1;
 
         int nePopalGarri = vsegoBank - garri;
         int nePopalLari = vsegoBank - lari;
