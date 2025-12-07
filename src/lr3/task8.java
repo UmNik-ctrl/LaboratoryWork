@@ -22,7 +22,6 @@ public class task8 {
             tekBukva++;
         }
 
-        // Выводим массив
         System.out.println("Массив из 10 согласных букв:");
         for (int i = 0; i < razmer; i++) {
             System.out.print(bukvy[i] + " ");
